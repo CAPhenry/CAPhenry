@@ -8,4 +8,4 @@
 - 😄 Pronouns: Ele/dele
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henry!&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CAPhenry&theme=dark&show_icons=true)
