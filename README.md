@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://media.discordapp.net/attachments/650130123781046278/1224064434268274738/github-header-image_5.png?ex=661c21d7&is=6609acd7&hm=681e6d4330863bb37d78bd26724f9fb4f0e7cb23c694e5903d652c94075ad500&=&format=webp&quality=lossless"/>
+<img width=100% bottom=50px src="https://r2.fivemanage.com/zsxtHwN3uFZDe6IbTMW2b/images/github-header-image_5.png"/>
 <br>
 <br> 
 
@@ -102,7 +102,7 @@
 <br> 
 
 
-<img width=100% src="https://media.discordapp.net/attachments/650130123781046278/1224065924521263215/github-header-image_7.png?ex=661c233a&is=6609ae3a&hm=bdf69acd3bd4297c8c55e80d1ecc1ec9ba1f0780ad271b1e874ef2e7b2ea4a26&=&format=webp&quality=lossless"/>
+<img width=100% src="https://r2.fivemanage.com/zsxtHwN3uFZDe6IbTMW2b/images/github-header-image_7.png"/>
 
 
 
