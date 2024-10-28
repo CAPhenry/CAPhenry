@@ -20,7 +20,7 @@
 <img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
 </a>  -->
 <a href="https://discord.com/users/423207288791236618" target="_blank">
-<img align="center" height="80" width="80" src="https://media.discordapp.net/attachments/650130123781046278/1224057764679254109/image.png?ex=661c1ba0&is=6609a6a0&hm=2bc9b7c47a32d5a81c30494a1806b9f72d30824764cb05eb0d41b5cc5ddb614f&=&format=webp&quality=lossless">
+<img align="center" height="80" width="80" src="https://r2.fivemanage.com/zsxtHwN3uFZDe6IbTMW2b/images/dddd.png">
 </a>
 <!-- <a href="mailto:cmp.1a.caroline@gmail.com">
 <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
@@ -48,9 +48,9 @@
 
 <!-- <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc"> -->
 
-<img align="left"  height="80" width="80" src="https://media.discordapp.net/attachments/650130123781046278/1224066802762518548/image.png?ex=661c240b&is=6609af0b&hm=01085dbff7d11ce24a29b819ec02164368ec79820d721292f49ee24ba538de15&=&format=webp&quality=lossless">
+<img align="left"  height="80" width="80" src="https://r2.fivemanage.com/zsxtHwN3uFZDe6IbTMW2b/images/mysql.png">
 
-<img align="left"  height="80" width="80" src="https://media.discordapp.net/attachments/650130123781046278/1224060584216232066/Lua_programming_language-Logo.wine_2.png?ex=661c1e41&is=6609a941&hm=6e653e948ee7ae3c140f3a119ebe179c3cb4d69c5d83a772bd185f656bf752fb&=&format=webp&quality=lossless&width=708&height=671">
+<img align="left"  height="80" width="80" src="https://r2.fivemanage.com/zsxtHwN3uFZDe6IbTMW2b/images/Lua_programming_language-Logo.wine_2.png">
 
 </div>
 
@@ -67,7 +67,7 @@
 
 <div align="left"> 
 
-<img align="left"  height="80" width="80" src="https://media.discordapp.net/attachments/650130123781046278/1224060844468469831/image.png?ex=661c1e7f&is=6609a97f&hm=84dcc506ccc7849fff9db515b7fb5464895edab4484880774ddcfca5b099cad7&=&format=webp&quality=lossless">
+<img align="left"  height="80" width="80" src="https://r2.fivemanage.com/zsxtHwN3uFZDe6IbTMW2b/images/image.png">
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
 
